@@ -1,3 +1,5 @@
+
+
 # Poster Tiler
 
 A high-performance Python desktop application built with Tkinter, Pillow, and ReportLab that splits massive, high-resolution images into printable multi-page PDFs (like A4, A3, etc.) without losing any pixel quality or using lossy compression.
@@ -22,6 +24,6 @@ A high-performance Python desktop application built with Tkinter, Pillow, and Re
 
 ### Prerequisites
 Make sure you have Python installed, then install the required dependencies:
-
+<img width="1254" height="1254" alt="Red Rounded-Square Snake Icon" src="https://github.com/user-attachments/assets/7fbd4452-51dd-4f2b-807c-0628199ba93f" />
 ```bash
 pip install pillow reportlab
